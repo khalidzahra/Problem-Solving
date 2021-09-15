@@ -1,0 +1,43 @@
+<h1>Codeforces A Problems</h1>
+<table>
+	<tr>
+		<th>Problem Name</th>
+		<th>Problem Link</th>
+	</tr>
+	<tr>
+		<td>watermelon</td>
+		<td>https://codeforces.com/problemset/problem/4/A</td>
+	</tr>
+	<tr>
+		<td>theatre_square</td>
+		<td>https://codeforces.com/problemset/problem/1/A</td>
+	</tr>
+	<tr>
+		<td>team</td>
+		<td>https://codeforces.com/problemset/problem/231/A</td>
+	</tr>
+	<tr>
+		<td>next_round</td>
+		<td>https://codeforces.com/problemset/problem/158/A</td>
+	</tr>
+	<tr>
+		<td>domino_piling</td>
+		<td>https://codeforces.com/problemset/problem/50/A</td>
+	</tr>
+	<tr>
+		<td>bit++</td>
+		<td>https://codeforces.com/problemset/problem/282/A</td>
+	</tr>
+	<tr>
+		<td>beautiful_matrix</td>
+		<td>https://codeforces.com/problemset/problem/263/A</td>
+	</tr>
+	<tr>
+		<td>petya_and_strings</td>
+		<td>https://codeforces.com/problemset/problem/112/A</td>
+	</tr>
+	<tr>
+		<td>string_task</td>
+		<td>https://codeforces.com/problemset/problem/118/A</td>
+	</tr>
+</table>
