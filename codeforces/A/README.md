@@ -40,4 +40,44 @@
 		<td>string_task</td>
 		<td>https://codeforces.com/problemset/problem/118/A</td>
 	</tr>
+	<tr>
+		<td>helpful_maths</td>
+		<td>https://codeforces.com/problemset/problem/339/A</td>
+	</tr>
+	<tr>
+		<td>word_capitalization</td>
+		<td>https://codeforces.com/problemset/problem/281/A</td>
+	</tr>
+	<tr>
+		<td>stones_on_a_table</td>
+		<td>https://codeforces.com/problemset/problem/266/A</td>
+	</tr>
+	<tr>
+		<td>boy_or_girl</td>
+		<td>https://codeforces.com/problemset/problem/236/A</td>
+	</tr>
+	<tr>
+		<td>football</td>
+		<td>https://codeforces.com/problemset/problem/96/A</td>
+	</tr>
+	<tr>
+		<td>young_physicist</td>
+		<td>https://codeforces.com/problemset/problem/69/A</td>
+	</tr>
+	<tr>
+		<td>soldier_and_bananas</td>
+		<td>https://codeforces.com/problemset/problem/546/A</td>
+	</tr>
+	<tr>
+		<td>bear_and_big_brother</td>
+		<td>https://codeforces.com/problemset/problem/791/A</td>
+	</tr>
+	<tr>
+		<td>elephant</td>
+		<td>https://codeforces.com/problemset/problem/617/A</td>
+	</tr>
+	<tr>
+		<td>wrong_subtraction</td>
+		<td>https://codeforces.com/problemset/problem/977/A</td>
+	</tr>
 </table>
