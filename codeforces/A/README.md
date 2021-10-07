@@ -80,4 +80,40 @@
 		<td>wrong_subtraction</td>
 		<td>https://codeforces.com/problemset/problem/977/A</td>
 	</tr>
+	<tr>
+		<td>word</td>
+		<td>https://codeforces.com/problemset/problem/59/A</td>
+	</tr>
+	<tr>
+		<td>tram</td>
+		<td>https://codeforces.com/problemset/problem/116/A</td>
+	</tr>
+	<tr>
+		<td>chat_room</td>
+		<td>https://codeforces.com/problemset/problem/58/A</td>
+	</tr>
+	<tr>
+		<td>nearly_lucky_number</td>
+		<td>https://codeforces.com/problemset/problem/110/A</td>
+	</tr>
+	<tr>
+		<td>lucky_division</td>
+		<td>https://codeforces.com/problemset/problem/122/A</td>
+	</tr>
+	<tr>
+		<td>translation</td>
+		<td>https://codeforces.com/problemset/problem/41/A</td>
+	</tr>
+	<tr>
+		<td>anton_and_danik</td>
+		<td>https://codeforces.com/problemset/problem/734/A</td>
+	</tr>
+	<tr>
+		<td>twins</td>
+		<td>https://codeforces.com/problemset/problem/160/A</td>
+	</tr>
+	<tr>
+		<td>beautiful_year</td>
+		<td>https://codeforces.com/problemset/problem/271/A</td>
+	</tr>
 </table>
