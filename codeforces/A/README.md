@@ -116,4 +116,32 @@
 		<td>beautiful_year</td>
 		<td>https://codeforces.com/problemset/problem/271/A</td>
 	</tr>
+	<tr>
+		<td>vanya_and_fence</td>
+		<td>https://codeforces.com/contest/677/problem/A</td>
+	</tr>
+	<tr>
+		<td>gravity_flip</td>
+		<td>https://codeforces.com/contest/405/problem/A</td>
+	</tr>
+	<tr>
+		<td>sereja_and_dima</td>
+		<td>https://codeforces.com/contest/381/problem/A</td>
+	</tr>
+	<tr>
+		<td>police_recruits	</td>
+		<td>https://codeforces.com/contest/427/problem/A</td>
+	</tr>
+	<tr>
+		<td>black_square</td>
+		<td>https://codeforces.com/contest/431/problem/A</td>
+	</tr>
+	<tr>
+		<td>night_at_the_museum</td>
+		<td>https://codeforces.com/contest/731/problem/A</td>
+	</tr>
+	<tr>
+		<td>games</td>
+		<td>https://codeforces.com/contest/268/problem/A</td>
+	</tr>
 </table>
