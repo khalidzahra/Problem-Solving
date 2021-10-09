@@ -144,4 +144,56 @@
 		<td>games</td>
 		<td>https://codeforces.com/contest/268/problem/A</td>
 	</tr>
+	<tr>
+		<td>consecutive_sum_riddle</td>
+		<td>https://codeforces.com/contest/1594/problem/A</td>
+	</tr>
+	<tr>
+		<td>buy_a_shovel</td>
+		<td>https://codeforces.com/contest/732/problem/A</td>
+	</tr>
+	<tr>
+		<td>is_your_horse_shoe_on_the_other_hoof</td>
+		<td>https://codeforces.com/contest/228/problem/A</td>
+	</tr>
+	<tr>
+		<td>colorful_stones</td>
+		<td>https://codeforces.com/contest/265/problem/A</td>
+	</tr>
+	<tr>
+		<td>die_roll</td>
+		<td>https://codeforces.com/contest/9/problem/A</td>
+	</tr>
+	<tr>
+		<td>shaass_and_oskols</td>
+		<td>https://codeforces.com/contest/294/problem/A</td>
+	</tr>
+	<tr>
+		<td>juicer</td>
+		<td>https://codeforces.com/contest/709/problem/A</td>
+	</tr>
+	<tr>
+		<td>carrot_cakes</td>
+		<td>https://codeforces.com/contest/799/problem/A</td>
+	</tr>
+	<tr>
+		<td>anton_and_letters</td>
+		<td>https://codeforces.com/contest/443/problem/A</td>
+	</tr>
+	<tr>
+		<td>way_too_long_words</td>
+		<td>https://codeforces.com/contest/71/problem/A</td>
+	</tr>
+	<tr>
+		<td>free_ice_cream</td>
+		<td>https://codeforces.com/contest/686/problem/A</td>
+	</tr>
+	<tr>
+		<td>team_olympiad</td>
+		<td>https://codeforces.com/contest/490/problem/A</td>
+	</tr>
+	<tr>
+		<td>new_password</td>
+		<td>https://codeforces.com/contest/770/problem/A</td>
+	</tr>
 </table>
