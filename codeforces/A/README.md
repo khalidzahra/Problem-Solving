@@ -196,4 +196,20 @@
 		<td>new_password</td>
 		<td>https://codeforces.com/contest/770/problem/A</td>
 	</tr>
+	<tr>
+		<td>presents</td>
+		<td>https://codeforces.com/contest/136/problem/A</td>
+	</tr>
+	<tr>
+		<td>snacktower</td>
+		<td>https://codeforces.com/problemset/problem/767/A</td>
+	</tr>
+	<tr>
+		<td>mahmoud_and_the_longest_uncommon_subsequence</td>
+		<td>https://codeforces.com/contest/766/problem/A</td>
+	</tr>
+	<tr>
+		<td>lineland_mail</td>
+		<td>https://codeforces.com/contest/567/problem/A</td>
+	</tr>
 </table>
