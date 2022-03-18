@@ -13,7 +13,7 @@
 using namespace std;
 
 int main() {
-    int n, m, count = 0;
+    int n, m;
     char p;
     cin >> n >> m >> p;
     vector<vector<char>> g(n, vector<char>(m));
@@ -26,7 +26,7 @@ int main() {
     };
 
     set<char> found;
-    
+
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < m; j++) {
             cin >> g[i][j];
@@ -42,16 +42,13 @@ int main() {
                         g[currX][currY] == p ||
                         g[currX][currY] == '.')
                         continue;
-                    if (found.find(g[currX][currY]) == found.end()) {
-                        found.insert(g[currX][currY]);
-                        count++;
-                    }
+                    found.insert(g[currX][currY]);
                 }
             }
         }
     }
 
-    cout << count << endl;
+    cout << found.size() << endl;
 
     return 0;
 }
