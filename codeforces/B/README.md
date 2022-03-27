@@ -20,4 +20,20 @@
 		<td>presidents_office</td>
 		<td>https://codeforces.com/contest/6/problem/B</td>
 	</tr>
+	<tr>
+		<td>customizing_the_track</td>
+		<td>https://codeforces.com/problemset/problem/1543/B</td>
+	</tr>
+	<tr>
+		<td>dreamoon_and_wifi</td>
+		<td>https://codeforces.com/problemset/problem/476/B</td>
+	</tr>
+	<tr>
+		<td>permutations</td>
+		<td>https://codeforces.com/problemset/problem/124/B</td>
+	</tr>
+	<tr>
+		<td>running_for_gold</td>
+		<td>https://codeforces.com/problemset/problem/1552/B</td>
+	</tr>
 </table>
