@@ -212,4 +212,8 @@
 		<td>lineland_mail</td>
 		<td>https://codeforces.com/contest/567/problem/A</td>
 	</tr>
+	<tr>
+		<td>cheap_travel</td>
+		<td>https://codeforces.com/contest/466/problem/A</td>
+	</tr>
 </table>

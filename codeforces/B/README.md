@@ -36,4 +36,12 @@
 		<td>running_for_gold</td>
 		<td>https://codeforces.com/problemset/problem/1552/B</td>
 	</tr>
+	<tr>
+		<td>vanya_and_lanterns</td>
+		<td>https://codeforces.com/contest/492/problem/B</td>
+	</tr>
+	<tr>
+		<td>bersu_ball</td>
+		<td>https://codeforces.com/contest/489/problem/B</td>
+	</tr>
 </table>
